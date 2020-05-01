@@ -2,6 +2,9 @@
 
 All notable changes to this publication will be documented in this file.
 
+## 2.0.0 - 2020-05-01
+Updated for modern PHP (7.x)
+
 ## 1.0.1 - 2017-??-??
 The validate command returns an evaluable return code.
 
